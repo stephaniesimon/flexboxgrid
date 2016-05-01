@@ -1,5 +1,5 @@
 Flexbox Grid with SCSS mixins
-https://codepen.io/absolutholz/post/flex-box-grid-with-sass-mixins#leave-comment
+https://codepen.io/absolutholz/post/flex-box-grid-with-sass-mixins
 
 See below for info on Flexbox Grid
 ===========
