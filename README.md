@@ -1,4 +1,7 @@
-Flexbox Grid
+Flexbox Grid with SCSS mixins
+https://codepen.io/absolutholz/post/flex-box-grid-with-sass-mixins#leave-comment
+
+See below for info on Flexbox Grid
 ===========
 
 [flexboxgrid.com](http://flexboxgrid.com)
